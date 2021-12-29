@@ -20,68 +20,10 @@
   ],
   "users": [
     {
-      "id": 1,
-      "fullname": "basma",
-      "password": "aaaa",
-      "email": "basma@"
-    },
-    {
-      "id": 2,
-      "fullname": "basma",
-      "password": "aaaa",
-      "email": "basma@"
-    },
-    {
-      "id": 999,
-      "fullname": "basma",
-      "password": "aaaa",
-      "email": "basma@"
-    },
-    {
-      "id": 1000,
-      "fullname": null,
-      "email": null,
-      "password": null
-    },
-    {
-      "id": 1001,
-      "fullname": null,
-      "email": null,
-      "password": null
-    },
-    {
-      "id": 1002,
-      "fullname": "basma",
-      "email": "Basmaboussaidi35@gmail.com",
-      "password": "aaaaaa"
-    },
-    {
-      "id": 1003,
-      "fullname": null,
-      "email": null,
-      "password": null
-    },
-    {
-      "id": 1004,
-      "fullname": null,
-      "email": null,
-      "password": null
-    },
-    {
-      "fullname": "aa",
-      "email": "Basmaboussaidi35@gmail.com",
-      "password": "aaaaaa",
-      "id": 1005
-    },
-    {
-      "email": "basmaboussaidi35@gmail.com",
-      "password": "aaaaaa",
-      "id": 1006
-    },
-    {
-      "email": "basmaboussaidi35@gmail.com",
-      "password": "aaaaaa",
-      "id": 1007
+     "id": 999,
+      "fullname": "Solen Cotel",
+      "email": "SolenCotel@gmail.com",
+      "password": "1234"
     }
   ]
 }
