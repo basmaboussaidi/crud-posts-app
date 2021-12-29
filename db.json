@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "userId": 999,
+      "id": 1,
+      "authot": "Solen Cotel",
+      "body": "None",
+      "author": "Solen Cotel",
+      "tags": null,
+      "datePublished": "2021-12-28T21:13:08.664Z"
+    },
+    {
+      "userId": 999,
+      "id": 2,
+      "body": "Je vais regarder cela plus précisément mais de prime abord je pene que les écarts observés par @Michel pour les anions entre les mesures labo et le river lab sont sans doute à mettre sur le compte de la filtration.",
+      "author": "Solen Cotel",
+      "tags": null,
+      "datePublished": "2021-12-28T21:13:08.664Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "basma",
+      "password": "aaaa",
+      "email": "basma@"
+    },
+    {
+      "id": 2,
+      "fullname": "basma",
+      "password": "aaaa",
+      "email": "basma@"
+    },
+    {
+      "id": 999,
+      "fullname": "basma",
+      "password": "aaaa",
+      "email": "basma@"
+    },
+    {
+      "id": 1000,
+      "fullname": null,
+      "email": null,
+      "password": null
+    },
+    {
+      "id": 1001,
+      "fullname": null,
+      "email": null,
+      "password": null
+    },
+    {
+      "id": 1002,
+      "fullname": "basma",
+      "email": "Basmaboussaidi35@gmail.com",
+      "password": "aaaaaa"
+    },
+    {
+      "id": 1003,
+      "fullname": null,
+      "email": null,
+      "password": null
+    },
+    {
+      "id": 1004,
+      "fullname": null,
+      "email": null,
+      "password": null
+    },
+    {
+      "fullname": "aa",
+      "email": "Basmaboussaidi35@gmail.com",
+      "password": "aaaaaa",
+      "id": 1005
+    },
+    {
+      "email": "basmaboussaidi35@gmail.com",
+      "password": "aaaaaa",
+      "id": 1006
+    },
+    {
+      "email": "basmaboussaidi35@gmail.com",
+      "password": "aaaaaa",
+      "id": 1007
+    }
+  ]
+}

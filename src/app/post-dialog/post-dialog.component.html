@@ -1,0 +1,23 @@
+<h1 mat-dialog-title>{{data.title}}</h1>
+<form [formGroup]="postForm" (ngSubmit)="onSubmit()">
+  <div mat-dialog-content>
+    
+    <mat-form-field appearance="outline">
+      <mat-label>Contenu</mat-label>
+      <textarea matInput rows="1" formControlName="body"></textarea>
+      <mat-error *ngIf="body.errors?.required">Vous devez mettre du contenu</mat-error>
+      
+    
+    </mat-form-field>
+    <div class="input-group mb-3">
+      <button class="btn btn-outline-secondary" type="button">signalement</button>
+      <button class="btn btn-outline-secondary" type="button">intervention</button>
+      <input type="text" class="form-control" placeholder="" aria-label="Example text with two button addons">
+    </div>  
+  </div>
+  <div mat-dialog-actions class="button-area">
+    <button mat-button type="button" (click)="cancel()">Annuler</button>
+    <button mat-button type="submit" [disabled]="postForm.invalid">Confirmer</button>
+    
+  </div>
+</form>
