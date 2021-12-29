@@ -1,3 +1,10 @@
+# Some Guids:
+
+In order to execute the project, you should have JSON server installed!
+To do that run the command : npm install -g json-server
+and then : json-server --watch db.json
+db.json in the file tht will contain our ressources.
+for more inforation about JSON server please feel free to read the Documentation : https://www.npmjs.com/package/json-server
 # crud-posts-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
